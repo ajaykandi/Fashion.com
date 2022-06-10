@@ -1,0 +1,536 @@
+[
+    {
+        "title": "Roadstar",
+        "desc": "Men White Pure Cotton tshirts",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/5/12/993d4718-62de-4171-bdf2-519be60803af1620836636842-1.jpg",
+        "categories": [
+            "tshirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "white"
+        ],
+        "price": 499
+    },
+    {
+        "title": "HRX",
+        "desc": "HRX by Hrithik Roshan",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1700944/2022/3/2/093bc645-d461-4128-94a1-0692803944141646215571321-HRX-by-Hrithik-Roshan-Men-Yellow-Printed-Cotton-Pure-Cotton--1.jpg",
+        "categories": [
+            "tshirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "yellow"
+        ],
+        "price": 419
+    },
+    {
+        "_id": "6295fbcb34a07d6b77a645a8",
+        "title": "V Dot",
+        "desc": "Men Maroon Textured Slim Fit Casual Pure Cotton Shirt",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17512434/2022/4/16/6a1bb94b-da13-4bf1-8d00-7bde110654411650100755187-V-Dot-Men-Maroon-Textured-Slim-Fit-Casual-Pure-Cotton-Shirt--6.jpg",
+        "categories": [
+            "shirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "maroon"
+        ],
+        "price": 500
+    },
+    {
+        "title": "Khaki Jacket",
+        "desc": "Men Khaki Solid Tailored Jacket",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6411312/2019/10/15/923f407a-3fc4-4990-8938-fa4c598837a91571123536987-Roadster-Men-Khaki-Solid-Tailored-Jacket-1541571123535108-1.jpg",
+        "categories": [
+            "jackets"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "khaki",
+            "yellow"
+        ],
+        "price": 500
+    },
+    {
+        "title": "H&M",
+        "desc": "Men Black Ripstop Utility Gilet",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17842644/2022/4/11/67b5e91b-b696-4031-b03e-e55bcfe4e7d61649653357892Ripstoputilitygilet1.jpg",
+        "categories": [
+            "jackets"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "black"
+        ],
+        "price": 2229
+    },
+    {
+        "title": "Invincible",
+        "desc": "Men Black Windcheater Training or Gym Sporty Jacket",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17766692/2022/4/5/32c02074-25b1-4359-a2df-2bf74480a5a61649163683818InvincibleMenBlackWindcheaterLonglineTrainingorGymSportyJack1.jpg",
+        "categories": [
+            "jackets"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "black"
+        ],
+        "price": 1299
+    },
+    {
+        "title": "Huetrap",
+        "desc": "Men Beige & Black Typography Printed Sustainable tshirts",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/12/1aab2a18-6774-4f83-b292-fe301755a3351576102551329-1.jpg",
+        "categories": [
+            "tshirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "white",
+            "beige",
+            "gray"
+        ],
+        "price": 449
+    },
+    {
+        "title": "Nautica",
+        "desc": "Men Green & White Striped Slim Fit Pure Cotton tshirts",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11545192/2022/3/25/626b0419-cbb0-4200-8490-67e20a0021c51648208612203-Roadster-Men-Green--White-Printed-Round-Neck-Pure-Cotton-T-s-1.jpg",
+        "categories": [
+            "tshirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "white",
+            "green"
+        ],
+        "price": 1119,
+        "createdAt": "2022-05-31T11:36:03.693Z",
+        "updatedAt": "2022-05-31T11:36:03.693Z",
+        "__v": 0
+    },
+    {
+        "title": "H&M Jacket",
+        "desc": "Men Sea Green Oversized Fit Windproof Jacket",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17203178/2022/2/18/f4ba5807-b7b3-4acf-bcb1-b572ddee99321645171349641OversizedFitwindproofjacket1.jpg",
+        "categories": [
+            "jackets"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "sea green",
+            "green"
+        ],
+        "price": 3999
+    },
+    {
+        "_id": "6295fdf7e9d55c89b6f71f5a",
+        "title": "Roadstar jeans",
+        "desc": "Men Blue Regular Fit Mid-Rise Clean Look Stretchable jeans",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12330210/2020/11/30/c8f9ef6d-b101-43e4-8b90-41f78977d52d1606728060966-Calvin-Klein-Jeans-Men-Jeans-3091606728058253-1.jpg",
+        "categories": [
+            "jeans",
+            "Bottomwear"
+        ],
+        "size": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "color": [
+            "blue"
+        ],
+        "price": 1104
+    },
+    {
+        "title": "Levis",
+        "desc": "Men Black 512 Slim Tapered Fit Stretchable jeans",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7139482/2022/4/21/6ad74122-26a4-44b4-a461-e5ec6431efd01650541011059RoadsterMenBlackSlimFitMid-RiseCleanLookStretchableJeans1.jpg",
+        "categories": [
+            "jeans",
+            "Bottomwear"
+        ],
+        "size": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "color": [
+            "black"
+        ],
+        "price": 3999,
+        "createdAt": "2022-05-31T11:37:45.396Z",
+        "updatedAt": "2022-05-31T11:37:45.396Z",
+        "__v": 0
+    },
+    {
+        "_id": "6295fe67e9d55c89b6f71f62",
+        "title": "HRX Hrithik Edition",
+        "desc": "HRX by Hrithik Roshan",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17730386/2022/4/18/b9b62d1b-aecd-4bc6-92db-b8f6934085981650283000754-Allen-Solly-Men-Tshirts-8901650283000150-1.jpg",
+        "categories": [
+            "tshirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "blue"
+        ],
+        "price": 419
+    },
+    {
+        "title": "Livis",
+        "desc": "Men Black Typography Printed Pure Cotton tshirts",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/16803500/2022/1/27/b4bf60cf-df6d-49a6-a894-0e957e0f52d21643276181176-Levis-Men-Black--Orange-Brand-Logo-Printed-Round-Neck-Regula-1.jpg",
+        "categories": [
+            "tshirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "black"
+        ],
+        "price": 659
+    },
+    {
+        "title": "Roadstar white jeans ",
+        "desc": "Men White Tapered Fit jeans",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/7114176/2018/9/17/1d969f1d-69fb-4d27-84bf-6ed989cc2f211537164974951-Roadster-Men-White-Skinny-Fit-Mid-Rise-Clean-Look-Stretchabl-1.jpg",
+        "categories": [
+            "jeans",
+            "Bottomwear"
+        ],
+        "size": [
+            "28",
+            "30",
+            "32",
+            "34",
+            "36"
+        ],
+        "color": [
+            "white"
+        ],
+        "price": 1624
+    },
+    {
+        "title": "HIGHLANDER",
+        "desc": "Men Green & White Slim Fit Printed Casual Shirt",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11780968/2020/4/3/9f896858-2c78-4a94-b93c-0a6b32f6e8721585905051288HIGHLANDERMenGreenWhiteSlimFitPrintedCasualShirt4.jpg",
+        "categories": [
+            "shirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "green"
+        ],
+        "price": 493
+    },
+    {
+        "title": "Roadster",
+        "desc": "Men Maroon & Navy Blue Checked Sustainable Casual Shirt",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/1862801/2018/2/9/11518155061403-Roadster-Men-Maroon--Navy-Blue-Regular-Fit-Checked-Casual-Shirt-8861518155061131-5.jpg",
+        "categories": [
+            "shirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "maroon",
+            "red"
+        ],
+        "price": 824
+    },
+    {
+        "title": "Roadster",
+        "desc": "Men Olive Green Regular Fit Solid Casual Shirt",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/8894773/2019/7/1/7dc48561-40fe-4fe8-b86d-57a9bcd71be61561981853506-Roadster-Men-Olive-Green-Regular-Fit-Solid-Casual-Shirt-6321-1.jpg",
+        "categories": [
+            "shirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "green"
+        ],
+        "price": 734
+    },
+    {
+        "title": "VAN HEUSEN DENIM LABS",
+        "desc": "Men Navy Blue Slim Fit Pure Cotton Casual Shirt",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17542364/2022/4/6/13fb35a2-60a4-4a67-b022-47b5275e43cf1649245167905-VAN-HEUSEN-DENIM-LABS-Men-Shirts-6531649245167252-1.jpg",
+        "categories": [
+            "shirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "black"
+        ],
+        "price": 1624
+    },
+    {
+        "title": "Van Heusen",
+        "desc": "Men Black Solid Single Breasted Slim-Fit Suits",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18361476/2022/5/21/a80b0a36-118a-46a5-a5bb-e7bd1d0f11c21653121924328VanHeusenMenBlackSolidSingleBreastedSlim-FitSuits4.jpg",
+        "categories": [
+            "suits"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "black"
+        ],
+        "price": 6899
+    },
+    {
+        "title": "Blackberrys",
+        "desc": "Men Beige Escott 3 Pcs Dobby Suits",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18026950/2022/4/25/69bd84d5-46bf-494f-b428-58111941b2851650883400979Suits1.jpg",
+        "categories": [
+            "suits"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "beige",
+            "gray"
+        ],
+        "price": 13995
+    },
+    {
+        "title": "Blackberrys",
+        "desc": "Men Pink Solid Slim-Fit Single-Breasted Three-Piece Formal Suits",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18026972/2022/4/25/21c84013-f349-4643-a125-dcae512086521650889258208BlackberrysMenPinkSolidSlim-FitSingle-BreastedThree-PieceFor1.jpg",
+        "categories": [
+            "suits"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "pink"
+        ],
+        "price": 1624
+    },
+    {
+        "title": "SG RAJASAHAB",
+        "desc": "Men Cream Solid Single-Breasted 2-Piece Suits",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/17255558/2022/2/23/d1901270-1c74-4bf1-a6fa-4b93f4123af61645606882051Suits1.jpg",
+        "categories": [
+            "suits"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "gray"
+        ],
+        "price": 2999
+    },
+    {
+        "title": "Roadster",
+        "desc": "Men Maroon Striped Round Neck T-shirt",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/2310360/2022/4/7/7690e08b-1558-41e1-9f33-b0516ca74cad1649328871439RoadsterMenMaroonStripedRoundNeckT-shirt1.jpg",
+        "categories": [
+            "tshirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "maroon"
+        ],
+        "price": 423
+    },
+    {
+        "title": "H&M",
+        "desc": "Men Blue Oversized Fit Printed T-shirt",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/18131588/2022/5/3/b66e2e18-2b95-49ef-a2d4-0641aa8273ae1651568827074OversizedFitPrintedT-shirt1.jpg",
+        "categories": [
+            "tshirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "blue"
+        ],
+        "price": 1499
+    },
+    {
+        "title": "HERE&NOW",
+        "desc": "Men Teal Blue Solid Round Neck T-shirt",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12787018/2020/11/26/68fe415e-d7b0-40fd-b065-e379508f94ef1606391813863-HERENOW-Men-Tshirts-91606391812648-1.jpg",
+        "categories": [
+            "tshirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "tealblue",
+            "blue"
+        ],
+        "price": 2999
+    },
+    {
+        "title": "Roadster",
+        "desc": "Men Red Black All Over Print Cotton Pure Cotton T-shirt",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/8938517/2019/4/23/609f04a4-6fe1-4759-8dfe-a665d6e146f61556008191406-Roadster-Men-Tshirts-4801556008190063-1.jpg",
+        "categories": [
+            "tshirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "red"
+        ],
+        "price": 407
+    },
+    {
+        "title": "Roadster",
+        "desc": "Men Navy Blue Red Striped Cotton Pure Cotton T-shirt",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/6149689/2018/12/3/9466a5fa-7e51-48ad-9aba-f057c7bd9de81543835742222-Roadster-Men-Tshirts-1541543835742066-1.jpg",
+        "categories": [
+            "tshirts"
+        ],
+        "size": [
+            "xs",
+            "sm",
+            "m",
+            "l",
+            "xl"
+        ],
+        "color": [
+            "naviblue",
+            "red"
+        ],
+        "price": 569
+    }
+]
